@@ -1,6 +1,5 @@
-6053537/portainer-ce
+portainer-ce:zh-cn
 portainer/portainer-ce
-portainer/portainer-ee:latest
 homeassistant/home-assistant:latest
 nginx
 #支持私库

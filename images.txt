@@ -1,3 +1,4 @@
+6053537/portainer-ce
 portainer/portainer-ce
 portainer/portainer-ee:latest
 homeassistant/home-assistant:latest

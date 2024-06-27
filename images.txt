@@ -1,4 +1,5 @@
 portainer/portainer-ce
+portainer/portainer-ee:latest
 homeassistant/home-assistant:latest
 nginx
 #支持私库

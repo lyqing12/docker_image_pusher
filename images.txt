@@ -1,3 +1,5 @@
+registry
+joxit/docker-registry-ui
 6053537/portainer-ce
 portainer/portainer-ce
 homeassistant/home-assistant:latest

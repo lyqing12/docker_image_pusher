@@ -1,3 +1,4 @@
+deluan/navidrome
 linuxserver/qbittorrent
 registry
 joxit/docker-registry-ui

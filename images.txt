@@ -1,9 +1,9 @@
 registry
 joxit/docker-registry-ui
 6053537/portainer-ce
-summary/portainer-ce
-bigbugcc/portainer-ce
-wwfnle/portainer-ce
+#summary/portainer-ce
+#bigbugcc/portainer-ce
+#wwfnle/portainer-ce
 portainer/portainer-ce
 homeassistant/home-assistant:latest
 #nginx

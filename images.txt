@@ -1,3 +1,4 @@
+linuxserver/qbittorrent
 registry
 joxit/docker-registry-ui
 6053537/portainer-ce

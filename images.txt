@@ -1,3 +1,5 @@
+mariadb
+mysql
 deluan/navidrome
 linuxserver/qbittorrent
 registry

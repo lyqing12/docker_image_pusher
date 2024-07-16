@@ -1,3 +1,4 @@
+liaisonintl/mssql-server-linux
 mariadb
 mysql
 deluan/navidrome

@@ -1,3 +1,4 @@
+octoprint:/octoprint
 uifd/ui-for-docker
 hyper/docker-registry-web
 liaisonintl/mssql-server-linux

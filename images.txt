@@ -1,3 +1,15 @@
+mongo
+redis
+suisuijiang/fiora
+answerdev/answer
+jonnyan404/mrdoc-nginx
+dushixiang/next-terminal
+dushixiang/guacd
+diouxx/glpi
+wbsu2003/puter
+peppershade/open-resume
+traefik
+kingwrcy/moments
 talebook/talebook
 nodered/node-red
 esphome/esphome

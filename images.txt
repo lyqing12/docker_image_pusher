@@ -1,3 +1,5 @@
+longzhijie4/pwmysql
+longzhijie4/pwserver
 kagurazakanyaa/palworld
 mongo
 redis

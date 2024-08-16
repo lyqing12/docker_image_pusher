@@ -1,3 +1,4 @@
+talebook/talebook
 nodered/node-red
 esphome/esphome
 octoprint/octoprint

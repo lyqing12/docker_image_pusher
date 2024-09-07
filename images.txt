@@ -1,3 +1,5 @@
+nginx
+tomcat:7
 kagurazakanyaa/palworld
 mongo
 redis

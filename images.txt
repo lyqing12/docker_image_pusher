@@ -1,4 +1,4 @@
-iredmail/iredmail
+iredmail/iRedMail
 rustdesk/rustdesk-server
 mysql:5.6
 nginx

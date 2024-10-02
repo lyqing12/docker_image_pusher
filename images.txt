@@ -1,3 +1,5 @@
+iredmail/mariadb:stable
+lejmr/iredmail:mysql-latest
 rustdesk/rustdesk-server
 mysql:5.6
 nginx

@@ -1,4 +1,4 @@
-rsmoorthy/mssql:latest
+rsmoorthy/mssql
 iredmail/mariadb:stable
 lejmr/iredmail:mysql-latest
 rustdesk/rustdesk-server
